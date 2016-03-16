@@ -1,0 +1,163 @@
+\begin{thebibliography}{10}
+
+\bibitem{jiang2008ieee}
+D.~Jiang and L.~Delgrossi, ``{IEEE 802.11 p: Towards an international standard
+  for wireless access in vehicular environments},'' in {\em Vehicular
+  Technology Conference, 2008. VTC Spring 2008. IEEE}, pp.~2036--2040, IEEE,
+  2008.
+
+\bibitem{gilbert1960capacity}
+E.~N. Gilbert, ``{Capacity of a Burst-Noise Channel},'' {\em Bell system
+  technical journal}, vol.~39, no.~5, pp.~1253--1265, 1960.
+
+\bibitem{sommer2011bid}
+C.~Sommer, R.~German, and F.~Dressler, ``{Bidirectionally Coupled Network and
+  Road Traffic Simulation for Improved IVC Analysis},'' {\em IEEE Transactions
+  on Mobile Computing}, vol.~10, pp.~3--15, January 2011.
+
+\bibitem{segata2014plexe}
+M.~Segata, S.~Joerer, B.~Bloessl, C.~Sommer, F.~Dressler, and R.~Lo~Cigno,
+  ``{PLEXE: A Platooning Extension for Veins},'' in {\em 6th IEEE Vehicular
+  Networking Conference (VNC 2014)}, (Paderborn, Germany), pp.~53--60, IEEE,
+  December 2014.
+
+\bibitem{abolhasan2004review}
+M.~Abolhasan, T.~Wysocki, and E.~Dutkiewicz, ``{A review of routing protocols
+  for mobile ad hoc networks},'' {\em Ad hoc networks}, vol.~2, no.~1,
+  pp.~1--22, 2004.
+
+\bibitem{Sanguesa2015vanet}
+J.~A. Sanguesa, J.~Barrachina, M.~Fogue, P.~Garrido, F.~J. Martinez, J.-C.
+  Cano, C.~T. Calafate, and P.~Manzoni, ``{Sensing Traffic Density Combining
+  V2V and V2I Wireless Communications},'' {\em Sensors}, vol.~15, no.~12,
+  p.~29889, 2015.
+
+\bibitem{ivc}
+T.~Willke, P.~Tientrakool, and N.~Maxemchuk, ``{A survey of inter-vehicle
+  communication protocols and their applications},'' {\em Communications
+  Surveys Tutorials, IEEE}, vol.~11, pp.~3--20, June 2009.
+
+\bibitem{c2ccc}
+``Car 2 car communication consortium.'' {https://www.car-2-car.org}.
+
+\bibitem{hartenstein2010vanet}
+H.~Hartenstein and K.~Laberteaux, {\em {VANET: vehicular applications and
+  inter-networking technologies}}, vol.~1.
+\newblock Wiley Online Library, 2010.
+
+\bibitem{Szczurek_EBW}
+P.~Szczurek, B.~Xu, O.~Wolfson, and J.~Lin, ``Estimating relevance for the
+  emergency electronic brake light application,'' {\em Intelligent
+  Transportation Systems, IEEE Transactions on}, vol.~13, pp.~1638--1656, Dec
+  2012.
+
+\bibitem{gupte2012vehicular}
+S.~Gupte and M.~Younis, ``{Vehicular networking for intelligent and autonomous
+  traffic management},'' in {\em Communications (ICC), 2012 IEEE International
+  Conference on}, pp.~5306--5310, IEEE, 2012.
+
+\bibitem{eichler2007performance}
+S.~Eichler, ``{Performance Evaluation of the IEEE 802.11p WAVE Communication
+  Standard},'' in {\em Vehicular Technology Conference, 2007. VTC-2007 Fall.
+  2007 IEEE 66th}, pp.~2199--2203, Sept 2007.
+
+\bibitem{sahoo2014svanet}
+P.~K. Sahoo, M.-J. Chiang, and S.-L. Wu, ``{SVANET: A Smart Vehicular Ad Hoc
+  Network for Efficient Data Transmission with Wireless Sensors},'' {\em
+  Sensors}, vol.~14, no.~12, pp.~22230--22260, 2014.
+
+\bibitem{fcc}
+``{FCC Code of Federation Regulations 47, Part 95 -- Personal Radio
+  Services},'' 2009.
+
+\bibitem{CJD_IEEE}
+Q.~Chen, D.~Jiang, and L.~Delgrossi, ``{IEEE 1609.4 DSRC multi-channel
+  operations and its implications on vehicle safety communications},'' in {\em
+  {Vehicular Networking Conference (VNC), 2009 IEEE}}, pp.~1--8, Oct 2009.
+
+\bibitem{1609.3}
+``{IEEE Standard for Wireless Access in Vehicular Environments (WAVE) -
+  Networking Services},'' {\em IEEE Std 1609.3-2010 (Revision of IEEE Std
+  1609.3-2007)}, pp.~1--144, Dec 2010.
+
+\bibitem{1609.4}
+``{IEEE Standard for Wireless Access in Vehicular Environments
+  (WAVE)--Multi-channel Operation},'' {\em IEEE Std 1609.4-2010 (Revision of
+  IEEE Std 1609.4-2006)}, pp.~1--89, Feb 2011.
+
+\bibitem{mahajan2006urban}
+A.~Mahajan, N.~Potnis, K.~Gopalan, and A.~Wang, ``{Urban mobility models for
+  VANETs},'' in {\em 2nd IEEE International Workshop on Next Generation
+  Wireless Networks}, vol.~33, 2006.
+
+\bibitem{sommer2008progressing}
+C.~Sommer and F.~Dressler, ``{Progressing toward realistic mobility models in
+  VANET simulations},'' {\em Communications Magazine, IEEE}, vol.~46, no.~11,
+  pp.~132--137, 2008.
+
+\bibitem{johnson1996dynamic}
+D.~B. Johnson and D.~A. Maltz, ``{Dynamic source routing in ad hoc wireless
+  networks},'' in {\em Mobile computing}, pp.~153--181, Springer, 1996.
+
+\bibitem{jetcheva2003design}
+J.~G. Jetcheva, Y.~Hu, S.~PalChaudhuri, A.~K. Saha, and D.~B. Johnson,
+  ``{Design and evaluation of a metropolitan area multitier wireless ad hoc
+  network architecture},'' in {\em Mobile Computing Systems and Applications,
+  2003. Proceedings. Fifth IEEE Workshop on}, pp.~32--43, IEEE, 2003.
+
+\bibitem{sommer2008need}
+C.~Sommer, Z.~Yao, R.~German, and F.~Dressler, ``{On the need for bidirectional
+  coupling of road traffic microsimulation and network simulation},'' in {\em
+  Proceedings of the 1st ACM SIGMOBILE workshop on Mobility models},
+  pp.~41--48, ACM, 2008.
+
+\bibitem{varga2001omnetpp}
+A.~Varga {\em et~al.}, ``{The OMNeT++ discrete event simulation system},'' in
+  {\em Proceedings of the European simulation multiconference (ESM’2001)},
+  vol.~9, p.~65, sn, 2001.
+
+\bibitem{krajzewicz2002sumo}
+D.~Krajzewicz, G.~Hertkorn, C.~R{\"o}ssel, and P.~Wagner, ``{SUMO (Simulation
+  of Urban MObility)-an open-source traffic simulation},'' in {\em Proceedings
+  of the 4th Middle East Symposium on Simulation and Modelling (MESM20002)},
+  pp.~183--187, 2002.
+
+\bibitem{kopke2008simulating}
+A.~K{\"o}pke, M.~Swigulski, K.~Wessel, D.~Willkomm, P.~Haneveld, T.~E. Parker,
+  O.~W. Visser, H.~S. Lichte, and S.~Valentin, ``{Simulating wireless and
+  mobile networks in OMNeT++ the MiXiM vision},'' in {\em Proceedings of the
+  1st international conference on Simulation tools and techniques for
+  communications, networks and systems \& workshops}, p.~71, ICST (Institute
+  for Computer Sciences, Social-Informatics and Telecommunications
+  Engineering), 2008.
+
+\bibitem{krauss1998microscopic}
+S.~Krau{\ss}, {\em {Microscopic modeling of traffic flow: Investigation of
+  collision free vehicle dynamics}}.
+\newblock PhD thesis, Universitat zu Koln., 1998.
+
+\bibitem{kemeny1960finite}
+J.~G. Kemeny, J.~L. Snell, {\em et~al.}, {\em {Finite markov chains}},
+  vol.~356.
+\newblock van Nostrand Princeton, NJ, 1960.
+
+\bibitem{shivaldova2013vehicular}
+V.~Shivaldova, A.~Winkelbauer, and C.~F. Mecklenbr{\"a}uker, ``{Vehicular link
+  performance: From real-world experiments to reliability models and
+  performance analysis},'' {\em Vehicular Technology Magazine, IEEE}, vol.~8,
+  no.~4, pp.~35--44, 2013.
+
+\bibitem{sommer2012applicability}
+C.~Sommer, S.~Joerer, and F.~Dressler, ``{On the Applicability of Two-Ray Path
+  Loss Models for Vehicular Network Simulation},'' in {\em 4th IEEE Vehicular
+  Networking Conference (VNC 2012)}, (Seoul, Korea), pp.~64--69, IEEE, November
+  2012.
+
+\bibitem{eckhoff2012multichannel}
+D.~Eckhoff and C.~Sommer, ``{A Multi-Channel IEEE 1609.4 and 802.11p EDCA Model
+  for the Veins Framework},'' in {\em 5th ACM/ICST International Conference on
+  Simulation Tools and Techniques for Communications, Networks and Systems
+  (SIMUTools 2012): 5th ACM/ICST International Workshop on OMNeT++ (OMNeT++
+  2012), Poster Session}, (Desenzano, Italy), ACM, March 2012.
+
+\end{thebibliography}

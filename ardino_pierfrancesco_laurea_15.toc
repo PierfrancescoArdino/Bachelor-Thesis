@@ -1,0 +1,35 @@
+\select@language {american}
+\contentsline {chapter}{Extended abstract}{3}
+\contentsline {chapter}{\numberline {1}Vehicular networks}{7}
+\contentsline {section}{\numberline {1.1}Introduction to vehicular networks}{7}
+\contentsline {section}{\numberline {1.2}Application}{7}
+\contentsline {subsection}{\numberline {1.2.1}V2I applications}{8}
+\contentsline {subsection}{\numberline {1.2.2}V2V applications}{8}
+\contentsline {section}{\numberline {1.3}Communication technology}{9}
+\contentsline {subsection}{\numberline {1.3.1}DSRC protocol stack}{10}
+\contentsline {chapter}{\numberline {2}Simulation Frameworks}{11}
+\contentsline {section}{\numberline {2.1}Veins}{12}
+\contentsline {section}{\numberline {2.2}Sumo}{12}
+\contentsline {section}{\numberline {2.3}OMNeT++}{12}
+\contentsline {section}{\numberline {2.4}Connections}{13}
+\contentsline {chapter}{\numberline {3}Problem Statement}{15}
+\contentsline {section}{\numberline {3.1}Mathematics Background}{15}
+\contentsline {section}{\numberline {3.2}The Veins Framework Stack}{16}
+\contentsline {subsection}{\numberline {3.2.1}Connection Manager}{16}
+\contentsline {subsection}{\numberline {3.2.2}Application and Protocol Layer}{17}
+\contentsline {subsection}{\numberline {3.2.3}Mac Layer}{17}
+\contentsline {subsection}{\numberline {3.2.4}Physical Layer}{18}
+\contentsline {subsection}{\numberline {3.2.5}Analog Model}{18}
+\contentsline {subsection}{\numberline {3.2.6}Decider}{18}
+\contentsline {section}{\numberline {3.3}Problems and solutions}{19}
+\contentsline {section}{\numberline {3.4}Implementation}{20}
+\contentsline {chapter}{\numberline {4}Evaluation}{22}
+\contentsline {section}{\numberline {4.1}Parameters Estimation}{22}
+\contentsline {section}{\numberline {4.2}Simulation efficiency gain}{25}
+\contentsline {subsection}{\numberline {4.2.1}Results}{25}
+\contentsline {section}{\numberline {4.3}Accuracy analysis}{26}
+\contentsline {subsubsection}{Sample Mean}{26}
+\contentsline {subsubsection}{Standard Deviation}{26}
+\contentsline {subsection}{\numberline {4.3.1}Results}{28}
+\contentsline {chapter}{\numberline {5}Conclusions}{29}
+\contentsline {chapter}{Bibliography}{31}

@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Arch Linux)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ardino_pierfrancesco_laurea_15.aux
+The style file: ieeetr.bst
+Database file #1: biblio.bib
+Warning--empty author in 1609.3
+Warning--empty author in 1609.4
+Warning--can't use both volume and number fields in varga2001omnetpp
+You've used 30 entries,
+            1876 wiz_defined-function locations,
+            665 strings with 9739 characters,
+and the built_in function-call counts, 8526 in all, are:
+= -- 828
+> -- 308
+< -- 0
++ -- 115
+- -- 85
+* -- 612
+:= -- 1145
+add.period$ -- 33
+call.type$ -- 30
+change.case$ -- 27
+chr.to.int$ -- 0
+cite$ -- 33
+duplicate$ -- 462
+empty$ -- 851
+format.name$ -- 85
+if$ -- 2121
+int.to.chr$ -- 0
+int.to.str$ -- 30
+missing$ -- 29
+newline$ -- 96
+num.names$ -- 26
+pop$ -- 127
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 325
+stack$ -- 0
+substring$ -- 560
+swap$ -- 187
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 80
+width$ -- 32
+write$ -- 295
+(There were 3 warnings)

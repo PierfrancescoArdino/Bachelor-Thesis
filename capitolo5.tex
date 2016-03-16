@@ -1,0 +1,13 @@
+\chapter{Conclusions}
+\vskip 1em
+\label{cha:conclusion}
+The new model presented in this thesis shows how it is possible to improve the performance of Veins with a range and neighbors dependent model.\vskip 1em
+The first analysis reported in this thesis is the duration metric.
+The analysis has shown that using the new model would substantially decrease the computation time, as the model do not have to compute the SNR and the SINR but only a probability given by the parameters of the model.\vskip 1em
+The second analysis reported is the accuracy metric.
+This analysis has shown that using the new model with parameters obtained from the original model lead to the same result of the original model.\vskip 1em
+The two metric are obviously correlated, it would be useless to have a faster model but with results that does not reflect the reality. On the other hand it is useless to have a model that has the same accuracy of the original with only marginal gain in computation time.\\
+As a possible application, the new model can be employed in long scenarios where the original model would spend days in computation.\\
+As can be seen in this thesis, the two model can be used together. The original model can be used in short simulations to estimate the parameter of the new models and then the new model can be used in  longer simulations.\vskip 1em
+A possible future enhancement can include some improvements in the computation of the PER, in fact if  the parameters do not cover the possibility to have frames not decoded due to Radio in wrong mode or frames not synced with the Nic, the new model would not even try to decode these frames and so it will process fewer frames.\\
+It is possible to affirm that is could be a good starting point for those who will implement stochastic decisional model in Vehicular Networks using Veins.
